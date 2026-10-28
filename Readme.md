@@ -1,5 +1,8 @@
 # Coupon Offered Product
 
+> This module is no longer maintained and will not be ported to Thelia 3. Its 2.x versions remain available on Packagist.
+> Thelia 3 has a "free product" coupon type in the core.
+
 This module allows you to have a new coupon type to offer a product.
 
 ## Installation
